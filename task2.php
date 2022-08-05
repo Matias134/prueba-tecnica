@@ -1,7 +1,6 @@
-<!-- Dada una cadena de texto, darle la vuelta a invertir el orden de sus caracteres,
-sin usar métodos propios del lenguaje, sólo estructuras de control. -->
-
 <?php 
+// Dada una cadena de texto, darle la vuelta a invertir el orden de sus caracteres,
+// sin usar métodos propios del lenguaje, sólo estructuras de control.
 
 function reverseString($text)
 {

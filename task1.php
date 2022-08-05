@@ -1,7 +1,6 @@
-<!-- Dado un número, mostrar su serie de Fibonacci. (La serie de Fibonacci es un
-orden de números dónde cada número es la suma de los dos anteriores). -->
-
 <?php
+// Dado un número, mostrar su serie de Fibonacci. (La serie de Fibonacci es un
+// orden de números dónde cada número es la suma de los dos anteriores).
 function fibonacci($n)
 {
     $fibonacciList = [0,1];

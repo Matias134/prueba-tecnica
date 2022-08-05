@@ -1,7 +1,6 @@
-<!-- Escriba una función que permita multiplicar dos números sin utilizar el signo
-de multiplicación -->
-
 <?php 
+// Escriba una función que permita multiplicar dos números sin utilizar el signo
+// de multiplicación
 
 function multiply2numbers($n1, $n2)
 {
